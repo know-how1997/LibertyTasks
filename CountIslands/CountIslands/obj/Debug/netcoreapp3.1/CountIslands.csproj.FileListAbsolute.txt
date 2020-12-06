@@ -1,0 +1,13 @@
+C:\Users\revaz\Desktop\CountIslands\CountIslands\bin\Debug\netcoreapp3.1\CountIslands.exe
+C:\Users\revaz\Desktop\CountIslands\CountIslands\bin\Debug\netcoreapp3.1\CountIslands.deps.json
+C:\Users\revaz\Desktop\CountIslands\CountIslands\bin\Debug\netcoreapp3.1\CountIslands.runtimeconfig.json
+C:\Users\revaz\Desktop\CountIslands\CountIslands\bin\Debug\netcoreapp3.1\CountIslands.runtimeconfig.dev.json
+C:\Users\revaz\Desktop\CountIslands\CountIslands\bin\Debug\netcoreapp3.1\CountIslands.dll
+C:\Users\revaz\Desktop\CountIslands\CountIslands\bin\Debug\netcoreapp3.1\CountIslands.pdb
+C:\Users\revaz\Desktop\CountIslands\CountIslands\obj\Debug\netcoreapp3.1\CountIslands.csprojAssemblyReference.cache
+C:\Users\revaz\Desktop\CountIslands\CountIslands\obj\Debug\netcoreapp3.1\CountIslands.AssemblyInfoInputs.cache
+C:\Users\revaz\Desktop\CountIslands\CountIslands\obj\Debug\netcoreapp3.1\CountIslands.AssemblyInfo.cs
+C:\Users\revaz\Desktop\CountIslands\CountIslands\obj\Debug\netcoreapp3.1\CountIslands.csproj.CoreCompileInputs.cache
+C:\Users\revaz\Desktop\CountIslands\CountIslands\obj\Debug\netcoreapp3.1\CountIslands.dll
+C:\Users\revaz\Desktop\CountIslands\CountIslands\obj\Debug\netcoreapp3.1\CountIslands.pdb
+C:\Users\revaz\Desktop\CountIslands\CountIslands\obj\Debug\netcoreapp3.1\CountIslands.genruntimeconfig.cache

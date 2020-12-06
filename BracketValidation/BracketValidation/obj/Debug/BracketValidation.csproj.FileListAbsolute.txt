@@ -1,0 +1,6 @@
+C:\Users\revaz\Desktop\BracketValidation\BracketValidation\obj\Debug\BracketValidation.csproj.CoreCompileInputs.cache
+C:\Users\revaz\Desktop\BracketValidation\BracketValidation\bin\Debug\BracketValidation.exe.config
+C:\Users\revaz\Desktop\BracketValidation\BracketValidation\bin\Debug\BracketValidation.exe
+C:\Users\revaz\Desktop\BracketValidation\BracketValidation\bin\Debug\BracketValidation.pdb
+C:\Users\revaz\Desktop\BracketValidation\BracketValidation\obj\Debug\BracketValidation.exe
+C:\Users\revaz\Desktop\BracketValidation\BracketValidation\obj\Debug\BracketValidation.pdb
